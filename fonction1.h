@@ -1,1 +1,3 @@
-//Ce fichier les header des fonction du fichier fonction1.c
+//Ce fichier les headers des fonctions du fichier fonction1.c
+
+void afficheNom(int nom);
